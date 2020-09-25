@@ -1,0 +1,14 @@
+# git init (first initialize the file/folder - becomes a hidden file/folder)
+# git add . (Track everything)
+# git commit -m “Your message here”
+# git status (status/stage of commit)
+# git log (shows where you are in the Git history time machine -Head 
+    - hit ‘q’ to exit)
+# git checkout master (Master is the most up to date)
+# git checkout (unique commit id)
+
+Git remote commands...
+# git remote add origin (url)
+# git remote -v
+# git push origin master
+# git pull origin master
