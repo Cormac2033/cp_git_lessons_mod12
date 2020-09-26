@@ -13,4 +13,12 @@ Git remote commands...
 # git push origin master
 # git pull origin master
 
+# git clone (url)
+
+# git branch (name)
+or 
+# git checkout -b (name)
+
+# git branch (also shows you which branch you are on)
+
 # git merge home_page
